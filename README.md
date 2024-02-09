@@ -44,6 +44,11 @@ theme = ["github.com/nicokaiser/hugo-theme-gallery/v2"]
 ```
 $ git submodule add --depth=1 https://github.com/nicokaiser/hugo-theme-gallery.git themes/gallery
 ```
+Update the theme in your `hugo.toml`
+
+```
+theme = ["gallery"]
+```
 
 ## Usage
 
